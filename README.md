@@ -8,7 +8,7 @@ Data visualualization, Web development, React, Node, Postgresql. I also enjoy su
 
 ---
 
-### Languases and tools I've Worked With
+### Languages and tools I've Worked With
 - JavaScript
 - HTML
 - CSS
