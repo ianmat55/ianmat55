@@ -1,4 +1,4 @@
-# Hi there, I'm Ian and I like building cool things 👋
+# My name is Ian and I like building cool things 👋
 <p> I am a software engineer specializing in fullstack development, working with React, JavaScript, HTML/CSS and Python. Originally from Honolulu, HI, I moved to San Francisco to pursue a career in technology. </p>
 
 ---
