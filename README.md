@@ -1,5 +1,5 @@
 # My name is Ian and I like building cool things 👋
-<p> I am a software engineer specializing in fullstack development, working with React, JavaScript, HTML/CSS and Python. Originally from Honolulu, HI, I moved to San Francisco to pursue a career in technology. </p>
+<p> I am a software engineer specializing in fullstack development. Originally from Honolulu, HI, I moved to San Francisco to pursue a career in technology. </p>
 
 ---
 
@@ -8,11 +8,11 @@ Data visualualization, Web development, React, Node, Postgresql. I also enjoy su
 
 ---
 
-### Languages and tools I've Worked With
-- JavaScript
-- HTML
-- CSS
-- Python
+### Tools I've Worked With
+- Typescript
+- Java
+- React
+- Angular
 - Postgresql
 - Linux
 - Git
