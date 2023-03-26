@@ -1,10 +1,17 @@
 # My name is Ian and I like building cool things 👋
-<p> I am a software engineer specializing in fullstack development. Originally from Honolulu, HI, I moved to San Francisco to pursue a career in technology. </p>
+<p> I am a software engineer specializing in fullstack development. Originally from Honolulu, HI, I moved to San Francisco to pursue a career in technology. I am skilled in full-stack development specifically with experience in using React and Angular for the front end, Java and Node for the back end and Postgresql database </p>
 
 ---
 
 ### Interests
-Data visualualization, Web development, React, Node, Postgresql. I also enjoy surfing and hiking in my spare time.
+<p> Here are some interests </p>
+<ul>
+  <li> embedded systems </li>
+  <li> machine learning </li>
+  <li> distributed systems </li>
+  <li> computer architecture </li>
+  <li> surfing, hiking, and climbing </li>
+</ul>
 
 ---
 
