@@ -6,7 +6,8 @@
 ### Interests
 <p> Here are some interests </p>
 <ul>
-  <li> embedded systems </li>
+  <li> web development </li>
+  <li> computer systems </li>
   <li> machine learning </li>
   <li> distributed systems </li>
   <li> computer architecture </li>
