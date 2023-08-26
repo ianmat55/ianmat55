@@ -6,10 +6,8 @@
 ### Interests
 <p> Here are some interests </p>
 <ul>
-  <li> web development </li>
-  <li> computer systems </li>
-  <li> machine learning </li>
-  <li> distributed systems </li>
+  <li> backend development </li>
+  <li> systems development </li>
   <li> computer architecture </li>
   <li> surfing, hiking, and climbing </li>
 </ul>
@@ -19,6 +17,7 @@
 ### Tools I've Worked With
 - Typescript
 - Java
+- C++
 - React
 - Angular
 - Postgresql
@@ -28,7 +27,6 @@
 ---
 
 ### Find me on other platforms
-[twitter](https://twitter.com/ianmatss)
 [personal website](https://www.ianmats.com/)
 [Linkedin](https://www.linkedin.com/in/ian-matsumoto/)
 
